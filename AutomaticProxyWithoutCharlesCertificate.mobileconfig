@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>T63u@20251997</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.BF383B29-A811-4F39-881E-CD92BA94BDC3</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>BF383B29-A811-4F39-881E-CD92BA94BDC3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyPACFallbackAllowed</key>
+			<true/>
+			<key>ProxyType</key>
+			<string>Auto</string>
+			<key>SSID_STR</key>
+			<string>TARL</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Automatic Proxy without Charles Certificate</string>
+	<key>PayloadIdentifier</key>
+	<string>TRLCHMB246-5.61DFE5E4-FC13-4646-B2D2-0BB19DADE9EA</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AECB0063-1976-4760-858A-5CBD78D3BC75</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
