@@ -86,7 +86,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>94.156.149.54</string>
+			<string>10.1.0.57</string>
 			<key>ProxyServerPort</key>
 			<integer>8888</integer>
 			<key>ProxyType</key>
