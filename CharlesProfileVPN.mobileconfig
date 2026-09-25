@@ -86,7 +86,7 @@
 			<key>ProxyPassword</key>
 			<string>tR!ug@665</string>
 			<key>ProxyServer</key>
-			<string>192.168.0.232</string>
+			<string>192.168.0.124</string>
 			<key>ProxyServerPort</key>
 			<integer>8888</integer>
 			<key>ProxyType</key>
